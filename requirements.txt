@@ -2,9 +2,9 @@
 # -- --------------------------------------------------------------------------------------------------- -- #
 # -- project: A SHORT DESCRIPTION OF THE PROJECT                                                         -- #
 # -- script: requirements.txt : text file with the required libraries for the project                    -- #
-# -- author: YOUR GITHUB USER NAME                                                                       -- #
+# -- author: oscaralfonso17                                                                              -- #
 # -- license: GPL-3.0 License                                                                            -- #
-# -- repository: YOUR REPOSITORY URL                                                                     -- #
+# -- repository: https://github.com/oscaralfonso17/myst_if710183_lab1.git                                -- #
 # -- --------------------------------------------------------------------------------------------------- -- #
 
 pandas>=1.1.0
