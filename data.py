@@ -80,7 +80,6 @@ for i in range(1, 32):
 
 final = pd.DataFrame(final)
 final = final / capital - 1
-final
 
 # Creacion DF pasivo
 df_pasiva = dates
