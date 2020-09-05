@@ -17,7 +17,7 @@ Or you can manually install one by one using the name and version in the file.
 
 ## Funcionalities
 
-*Add here examples of core functionalities for the project in this repository.*
+![](https://iteso01-my.sharepoint.com/:i:/g/personal/if710183_iteso_mx/ETwmhB_0U49CoipR8XvD8YgBbe0iE34ZDLFgc8DCEk2WiA?e=7BUicZ)
 
 ## Author
 Oscar Alfonso Flores Orozco.
