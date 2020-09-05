@@ -17,6 +17,8 @@ Or you can manually install one by one using the name and version in the file.
 
 ## Funcionalities
 
+With this project, using the NAFTRAC historic files from 2018 to 2020, you can compare what would be your capital using a Passive Investment strategy vs using an Active Investment strategy:
+
 ![](files/Passive-Active.png)
 
 ## Author
