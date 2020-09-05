@@ -17,11 +17,18 @@ Or you can manually install one by one using the name and version in the file.
 
 ## Funcionalities
 
-With this project, using the __[**iShares NAFTRAC**](https://www.blackrock.com/mx/intermediarios/productos/251895/ishares-naftrac-fund) historic files__ from 2018 to 2020 and __Yahoo Finance__ prices for the NAFTRAC's mexican stocks, you can compare what would be your capital using a Passive Investment strategy vs using an Active Investment strategy:
+With this project, using the __[**iShares NAFTRAC**](https://www.blackrock.com/mx/intermediarios/productos/251895/ishares-naftrac-fund) historic files__ from 2018 to 2020 and __Yahoo Finance__ prices for the NAFTRAC's Mexican stocks, you can compare what would be your capital using a Passive Investment strategy vs using an Active Investment strategy:
 
 ![](files/Passive-Active.png)
 
-for more information and usages, please observe the [Jupyther Notebook](notebook.ipynb)
+Also, you can track the ETF's weights, the NAFTRAC, to the last business day:
+
+![](files/NAFTRAC-03-09.png)
+
+And which are the main sectors in this ETF of Mexican stocks.
+
+
+For more information and usages, please observe the [Jupyther Notebook](notebook.ipynb)
 
 ## Author
 Oscar Alfonso Flores Orozco.
