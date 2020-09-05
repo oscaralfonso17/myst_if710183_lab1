@@ -21,6 +21,8 @@ With this project, using the __[**iShares NAFTRAC**](https://www.blackrock.com/m
 
 ![](files/Passive-Active.png)
 
+for more information and usages, please observe the ![Jupyther Notebook](notebook.ipynb)
+
 ## Author
 Oscar Alfonso Flores Orozco.
 Financial Engineer at ITESO.
