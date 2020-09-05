@@ -17,7 +17,7 @@ Or you can manually install one by one using the name and version in the file.
 
 ## Funcionalities
 
-With this project, using the NAFTRAC historic files from 2018 to 2020, you can compare what would be your capital using a Passive Investment strategy vs using an Active Investment strategy:
+With this project, using the __[**iShares NAFTRAC**](https://www.blackrock.com/mx/intermediarios/productos/251895/ishares-naftrac-fund) historic files__ from 2018 to 2020 and __Yahoo Finance__ prices for the NAFTRAC's mexican stocks, you can compare what would be your capital using a Passive Investment strategy vs using an Active Investment strategy:
 
 ![](files/Passive-Active.png)
 
