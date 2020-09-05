@@ -29,6 +29,7 @@ And which are the main sectors in this ETF of Mexican stocks.
 
 
 For more information and usages, please observe the [Jupyther Notebook](notebook.ipynb)
+<font size = 2> *Note: The notebook is in Spanish </font>
 
 ## Author
 Oscar Alfonso Flores Orozco.
