@@ -31,6 +31,9 @@ And which are the main sectors in this ETF of Mexican stocks.
 For more information and usages, please observe the [Jupyther Notebook](notebook.ipynb)
 
 ##### <font color= #6B6B6B> <font size = 2> Note: The Notebook is in Spanish. </font>
+        
+##### <font color= #6B6B6B> <font size = 2> Note 2: The files should be named __'NAFTRAC_YYMMDD'__ to work properly. </font>
+
 
 ## Author
 Oscar Alfonso Flores Orozco.
