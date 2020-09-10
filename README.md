@@ -37,15 +37,15 @@ For more information and usages, please observe the [Jupyther Notebook](notebook
 
 #### Files on this project:
 
-- data.py: Data import from NAFTRAC files.
+- __data__.py: Data import from NAFTRAC files.
 
-- functions.py: Data manipulation.
+- __functions__.py: Data manipulation.
 
-- visualizations.py: Data visualization, as graphs or final DataFrames.
+- __visualizations__.py: Data visualization, as graphs or final DataFrames.
 
-- main.py: Main python file. Where the functions from other files are called and run.
+- __main.py__: Main python file. Where the functions from other files are called and run.
 
-- notebook.ipynb: Jupyter notebook with some explanations and usages shown previously above.
+- __notebook.ipynb__: Jupyter notebook with some explanations and usages shown previously above.
 
 ## Author
 Oscar Alfonso Flores Orozco.
