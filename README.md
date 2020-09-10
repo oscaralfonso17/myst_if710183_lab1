@@ -35,6 +35,18 @@ For more information and usages, please observe the [Jupyther Notebook](notebook
 ##### <font color= #6B6B6B> <font size = 2> Note 2: The files should be named __'NAFTRAC_YYMMDD.csv'__ to work properly. </font>
 
 
+#### Files on this project:
+
+- data.py: Data import from NAFTRAC files.
+
+- functions.py: Data manipulation.
+
+- visualizations.py: Data visualization, as graphs or final DataFrames.
+
+- main.py: Main python file. Where the functions from other files are called and run.
+
+- notebook.ipynb: Jupyter notebook with some explanations and usages shown previously above.
+
 ## Author
 Oscar Alfonso Flores Orozco.
 Financial Engineer at ITESO.
