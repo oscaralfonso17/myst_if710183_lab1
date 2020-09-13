@@ -50,6 +50,7 @@ For more information and usages, please observe the [Jupyther Notebook](notebook
 ## Author
 Oscar Alfonso Flores Orozco.
 Financial Engineer at ITESO.
+Global Implementation Analyst at Herbalife Nutrition Mexico.
 Guadalajara, México.
 
 ## License
