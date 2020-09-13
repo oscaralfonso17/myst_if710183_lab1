@@ -57,6 +57,7 @@ $ python main.py active_movs
 ```commandline
 $ python main.py compare
 ```
+- show is a boolean to determine if fig.show() should be called.
 
 ### To get the Performance Attribution Measures:
 ```commandline
