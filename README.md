@@ -79,8 +79,11 @@ $ python main.py measures
 
 ## Author
 Oscar Alfonso Flores Orozco.
+
 Financial Engineer at ITESO.
+
 Global Implementation Analyst at Herbalife Nutrition Mexico.
+
 Guadalajara, México.
 
 ## License
