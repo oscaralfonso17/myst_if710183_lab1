@@ -55,8 +55,9 @@ $ python main.py active_movs
 
 ### To get the investment comparation:
 ```commandline
-$ python main.py compare
+$ python main.py compare --show
 ```
+- show is a boolean to determine if fig.show() should be called.
 
 ### To get the Performance Attribution Measures:
 ```commandline
