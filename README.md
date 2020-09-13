@@ -65,7 +65,7 @@ $ python main.py measures
 
 ***
 
-#### Files on this project:
+#### Scripts on this project:
 
 - __data__.py: Data import from NAFTRAC files.
 
