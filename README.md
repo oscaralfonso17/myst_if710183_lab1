@@ -34,6 +34,36 @@ For more information and usages, please observe the [Jupyther Notebook](notebook
         
 ##### <font color= #6B6B6B> <font size = 2> Note 2: The files should be named __'NAFTRAC_YYMMDD.csv'__ to work properly. </font>
 
+***
+
+### To get the pasive investment:
+```commandline
+$ python main.py pasive --show
+```
+- show is a boolean to determine if fig.show() should be called.
+
+### To get the active investment:
+```commandline
+$ python main.py active --show
+```
+- show is a boolean to determine if fig.show() should be called.
+
+### To get the active investment operations history:
+```commandline
+$ python main.py active_movs
+```
+
+### To get the investment comparation:
+```commandline
+$ python main.py compare
+```
+
+### To get the Performance Attribution Measures:
+```commandline
+$ python main.py measures
+```
+
+***
 
 #### Files on this project:
 
