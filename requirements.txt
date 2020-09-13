@@ -10,3 +10,6 @@
 pandas>=1.1.0
 numpy>=1.19.1
 jupyter>=1.0.0
+yfinance>=0.1.54
+plotly>=1.15.0
+fire==0.2.1
